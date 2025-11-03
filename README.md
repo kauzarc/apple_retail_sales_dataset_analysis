@@ -10,3 +10,8 @@ Key analyses:
 - FFT frequency check → flat spectrum (white-noise behavior)
 
 Built with **Python**, **pandas**, **matplotlib**, **numpy**, **scipy**.
+
+---
+
+### ⚡ Polars Version
+A second notebook, `apple_retail_eda_polars.ipynb`, reimplements the same analysis using **Polars** for faster data processing and comparison with pandas.
